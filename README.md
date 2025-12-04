@@ -17,9 +17,9 @@ Acest proiect demonstrează utilizarea GitHub pentru gestionarea depozitelor, î
 ---
 
 ## Proiecte Figma
--https://www.figma.com/design/wYwqebgJBU4WCshqswnXKO/Laborator-UI-Libraries?node-id=0-1&t=dNfKH0TiUgh7faiu-1
--https://www.figma.com/design/tdTL9Xcm70GjDDNDrhWkL5/Prezentare?node-id=0-1&t=SK1ZTRzNBJL8jVQi-1
--https://www.figma.com/design/9U2ULHS1bISnGesTeSPy4m/Animatie?node-id=0-1&t=JW0QKbPQ5UdEllC8-1
+- https://www.figma.com/design/wYwqebgJBU4WCshqswnXKO/Laborator-UI-Libraries?node-id=0-1&t=dNfKH0TiUgh7faiu-1
+- https://www.figma.com/design/tdTL9Xcm70GjDDNDrhWkL5/Prezentare?node-id=0-1&t=SK1ZTRzNBJL8jVQi-1
+- https://www.figma.com/design/9U2ULHS1bISnGesTeSPy4m/Animatie?node-id=0-1&t=JW0QKbPQ5UdEllC8-1
 
 ---
 
