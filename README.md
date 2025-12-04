@@ -40,12 +40,19 @@ Acest proiect demonstrează utilizarea GitHub pentru gestionarea depozitelor, î
 
 ## 📂 Structura proiectului
 ├── README.md
+
 ├── folder1/
+
 │ └── lab1.txt
+
 ├── imagini/
+
 └── documente/
+
 ├── lucrare_lab.pdf
+
 └── prezentare.docx
+
 ├──feature-update-readme
 
 
