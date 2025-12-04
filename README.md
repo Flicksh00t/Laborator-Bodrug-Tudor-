@@ -30,8 +30,22 @@ Acest proiect demonstrează utilizarea GitHub pentru gestionarea depozitelor, î
 
 
 
-## 📂 Structura proiectului
+## Fișierele Repozitoriului
 - lab1.txt
 - LaboratorGitHub.docx
 - LaboratorGitHub.PDF
 - github.PNG
+
+---
+
+## 📂 Structura proiectului
+├── README.md
+├── folder1/
+│ └── lab1.txt
+├── imagini/
+└── documente/
+├── lucrare_lab.pdf
+└── prezentare.docx
+├──feature-update-readme
+
+
