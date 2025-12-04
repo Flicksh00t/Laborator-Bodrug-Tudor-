@@ -24,3 +24,7 @@ Acest proiect demonstrează utilizarea GitHub pentru gestionarea depozitelor, î
 ---
 
 ## 📂 Structura proiectului
+- lab1.txt
+- LaboratorGitHub.docx
+- LaboratorGitHub.PDF
+- github.PNG
